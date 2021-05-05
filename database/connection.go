@@ -1,7 +1,7 @@
 package database
 
 import (
-	"SideProject/Go-React-Demo/models"
+	"Go-React-Demo/models"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )

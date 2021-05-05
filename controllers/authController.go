@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"SideProject/Go-React-Demo/database"
-	"SideProject/Go-React-Demo/models"
+	"Go-React-Demo/database"
+	"Go-React-Demo/models"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gofiber/fiber/v2"
 	"golang.org/x/crypto/bcrypt"
@@ -82,6 +82,6 @@ func Login(c *fiber.Ctx) error {
 	})
 }
 
-func User(c *fiber.Ctx) error {
-
-}
+//func User(c *fiber.Ctx) error {
+//
+//}

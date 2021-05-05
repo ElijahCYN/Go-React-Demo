@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"SideProject/Go-React-Demo/controllers"
+	"Go-React-Demo/controllers"
 	"github.com/gofiber/fiber/v2"
 )
 

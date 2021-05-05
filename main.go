@@ -1,8 +1,8 @@
 package main
 
 import (
-	"SideProject/Go-React-Demo/database"
-	"SideProject/Go-React-Demo/routes"
+	"Go-React-Demo/database"
+	"Go-React-Demo/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 )
